@@ -1,0 +1,16 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Prime checker",
+  "keywords": [
+    "prime",
+    "checker"
+  ],
+  "license": "MIT",
+  "author": "dona",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
