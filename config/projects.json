@@ -53,7 +53,7 @@
     "blockingTests": true,
     "breakOnFailure": true,
     "numberOfLessons": 1,
-    "completedDate": 1790871555230
+    "completedDate": 1791108662672
   },
   {
     "id": 4,
@@ -122,7 +122,8 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1791141236514
   },
   {
     "id": 9,
